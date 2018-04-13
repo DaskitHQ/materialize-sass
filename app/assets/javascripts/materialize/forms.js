@@ -306,7 +306,7 @@
     /**************************
      * Auto complete plugin  *
      *************************/
-    $.fn.autocomplete = function (options) {
+    $.fn.autocomplete_ma = function (options) {
       // Defaults
       var defaults = {
         data: {},
